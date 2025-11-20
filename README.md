@@ -1,0 +1,9 @@
+# GIT practice
+
+* ADD
+* COMMIT
+* PUSH
+* MERGE
+* RESET
+* TAG
+* REVERT
